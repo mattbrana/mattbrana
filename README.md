@@ -1,6 +1,6 @@
-## Hi there 👋
-My name is Matthew Brana
-I am a Computer Scienece student at Marist College
+## Hi there 👋<br/>
+My name is Matthew Brana<br/>
+I am a Computer Scienece student at Marist College<br/>
 EMail: MatthewDBrana@gmail.com
 
 <!--
