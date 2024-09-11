@@ -1,4 +1,7 @@
 ## Hi there 👋
+My name is Matthew Brana
+I am a Computer Scienece student at Marist College
+EMail: MatthewDBrana@gmail.com
 
 <!--
 **mattbrana/mattbrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
